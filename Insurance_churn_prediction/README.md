@@ -139,7 +139,7 @@ jupyter notebook insurance_churn_notebook.ipynb
 ## 👤 Author
 
 **Yuxuan Li**  
-Biostatistician
+Biostatistician - SGS
 MSc Data Science – Leiden University   
 📧 liyuxuan0803@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/yuxuan-li-/)
