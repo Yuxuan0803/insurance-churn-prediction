@@ -139,7 +139,7 @@ jupyter notebook insurance_churn_notebook.ipynb
 ## 👤 Author
 
 **Yuxuan Li**  
-MSc Data Science – Leiden University  
-BSc Insurance: Actuarial & Risk Management  
+Biostatistician
+MSc Data Science – Leiden University   
 📧 liyuxuan0803@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/yuxuan-li-/)
